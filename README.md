@@ -1,2 +1,1 @@
-qtyeert@yahoo.com
-(512) 226-3771
+A Simple Responsive Portfolio Using HTML And CSS - Testing Purposes
